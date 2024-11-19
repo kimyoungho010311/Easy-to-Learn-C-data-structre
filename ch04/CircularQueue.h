@@ -1,3 +1,4 @@
+typedef int Element;
 Element data[MAX_SIZE];  // 큐의 요소를 저장하는 배열
 int front;  // 큐의 전단(앞) 인덱스
 int rear;   // 큐의 후단(뒤) 인덱스
